@@ -1,5 +1,4 @@
-<h2>👨‍🎓 &nbsp;Relocated Student&nbsp; <img alt="ua-flag" width="25" src="https://github.com/user-attachments/assets/18a66c76-ce0d-45cf-8eed-c62fc685343e"/> -> <img width="25" alt="us flag" src="https://github.com/user-attachments/assets/56c85ba2-97bb-419d-b086-67784bd9e554" /> <br></h2
-<hr>
+<h2>👨‍🎓 &nbsp;Relocated Student&nbsp; <img alt="ua-flag" width="25" src="https://github.com/user-attachments/assets/18a66c76-ce0d-45cf-8eed-c62fc685343e"/> -> <img width="25" alt="us flag" src="https://github.com/user-attachments/assets/56c85ba2-97bb-419d-b086-67784bd9e554" /> <br></h2>
 
 ![React](https://custom-icon-badges.demolab.com/badge/React-20232A?logo=react&logoColor=white&style=for-the-badge) ![TypeScript](https://custom-icon-badges.demolab.com/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 <br>
@@ -7,9 +6,9 @@
 <br>
 ![Docker](https://custom-icon-badges.demolab.com/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) ![Nginx](https://custom-icon-badges.demolab.com/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 <br>
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?logo=aws&logoColor=white&style=for-the-badge) ![Cloudflare](https://custom-icon-badges.demolab.com/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge) ![Render](https://custom-icon-badges.demolab.com/badge/Render-000000?logo=render&logoColor=white&style=for-the-badge) ![Hetzner](https://custom-icon-badges.demolab.com/badge/Hetzner-D50C2D?logo=hetzner&logoColor=white&style=for-the-badge)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?logo=aws&logoColor=white&style=for-the-badge) ![Cloudflare](https://custom-icon-badges.demolab.com/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge) ![Render](https://custom-icon-badges.demolab.com/badge/Render-000000?logo=render&logoColor=white&style=for-the-badge) ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+<br><h2></h2>
 
-<hr>
 
 <p align="center">
   <strong>
