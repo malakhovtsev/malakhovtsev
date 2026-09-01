@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/ASP.NET_Core_%7C_C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
       <img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
       <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
-      <img src="https://custom-icon-badges.demolab.com/badge/SQL_Server-4169E1?logo=database&logoColor=white&style=for-the-badge" />
+      <img src="https://custom-icon-badges.demolab.com/badge/SQL_Server-0078D4?logo=database&logoColor=white&style=for-the-badge" />
     </td>
   </tr>
   <tr>
