@@ -26,6 +26,7 @@
     <td valign="middle">
       <img src="https://img.shields.io/badge/Linux-D9A300?style=for-the-badge&logo=linux&logoColor=white" />
       <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
       <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
       <img src="https://custom-icon-badges.demolab.com/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" />
     </td>
