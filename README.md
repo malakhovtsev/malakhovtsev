@@ -1,5 +1,9 @@
 <h2>👨‍🎓 &nbsp;Relocated Student&nbsp; <img alt="ua-flag" width="25" src="https://github.com/user-attachments/assets/18a66c76-ce0d-45cf-8eed-c62fc685343e"/> -> <img width="25" alt="us flag" src="https://github.com/user-attachments/assets/56c85ba2-97bb-419d-b086-67784bd9e554" /> <br></h2>
 
+<p valign="middle">
+  <b>Portfolio:</b> <a href="https://malakhovtsev.com"><code>malakhovtsev.com ↗</code></a>
+</p>
+
 <table>
   <tr>
     <td align="right" valign="middle"><b>Frontend</b></td>
@@ -40,14 +44,7 @@
 <h2></h2>
 
 <p align="center">
-  <strong>
-    <a href="https://malakhovtsev.com/">
-      <code>Portfolio 💼</code></a>
-  </strong>
-</p>
-
-<p align="center">
+  <a href="mailto:andrii@malakhovtsev.com" target="_blank" rel="noopener noreferrer" ><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="32" style="border:none; box-shadow:none;" /></a>
     <a href="https://www.linkedin.com/in/malakhovtsev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="32" style="border:none; box-shadow:none;" /></a>
-    <a href="mailto:andrii@malakhovtsev.com" target="_blank" rel="noopener noreferrer" ><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="32" style="border:none; box-shadow:none;" /></a>
     <a href="https://discordapp.com/users/malakhovtsev" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="32" style="border:none; box-shadow:none;" /> </a>
 </p>
