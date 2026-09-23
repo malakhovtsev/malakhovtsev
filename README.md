@@ -38,7 +38,6 @@
       <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900?logo=aws&logoColor=white&style=for-the-badge" />
       <img src="https://custom-icon-badges.demolab.com/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" />
       <img src="https://custom-icon-badges.demolab.com/badge/Render-000000?logo=render&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" />
     </td>
   </tr>
 </table>
