@@ -2,8 +2,8 @@
 
 <p>
   <code><a href="https://malakhovtsev.com">💼 Portfolio ↗</a></code>
-  <code><a href="mailto:andrii@malakhovtsev.com"><img alt="" height="14" src="https://skillicons.dev/icons?i=gmail" /> Email ↗</a></code>
-  <code><a href="https://www.linkedin.com/in/malakhovtsev/"><img alt="" height="14" src="https://skillicons.dev/icons?i=linkedin" /> LinkedIn ↗</a></code>
+  <code><a href="mailto:andrii@malakhovtsev.com"><img alt="" height="14" align="absmiddle" src="https://skillicons.dev/icons?i=gmail" /> Email ↗</a></code>
+  <code><a href="https://www.linkedin.com/in/malakhovtsev/"><img alt="" height="14" align="absmiddle" src="https://skillicons.dev/icons?i=linkedin" /> LinkedIn ↗</a></code>
 </p>
 
 <table>
