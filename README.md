@@ -1,4 +1,4 @@
-<h2>👨‍💻 &nbsp;Full-Stack Developer &nbsp;•&nbsp; Relocated Student&nbsp; <img alt="Ukraine flag" width="25" src="https://github.com/user-attachments/assets/18a66c76-ce0d-45cf-8eed-c62fc685343e"/> -> <img alt="US flag" width="25" src="https://github.com/user-attachments/assets/56c85ba2-97bb-419d-b086-67784bd9e554" /></h2>
+<h2>👨‍💻 &nbsp;Full-Stack Engineer &nbsp;•&nbsp; Relocated Student&nbsp; <img alt="Ukraine flag" width="25" src="https://github.com/user-attachments/assets/18a66c76-ce0d-45cf-8eed-c62fc685343e"/> -> <img alt="US flag" width="25" src="https://github.com/user-attachments/assets/56c85ba2-97bb-419d-b086-67784bd9e554" /></h2>
 
 <p>
   <code>💼 <a href="https://malakhovtsev.com">Portfolio ↗</a></code>
