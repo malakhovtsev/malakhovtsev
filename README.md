@@ -6,20 +6,37 @@
 
 <table>
   <tr>
+    <td align="right" valign="middle"><b>Languages</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-D9A300?style=for-the-badge&logo=javascript&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
+      <img src="https://custom-icon-badges.demolab.com/badge/C%23-512BD4?logo=cshrp&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
     <td align="right" valign="middle"><b>Frontend</b></td>
     <td valign="middle">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><b>Backend & DB</b></td>
+    <td align="right" valign="middle"><b>Backend</b></td>
     <td valign="middle">
-      <img src="https://img.shields.io/badge/ASP.NET_Core_%7C_C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
       <img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>Databases</b></td>
+    <td valign="middle">
       <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
       <img src="https://custom-icon-badges.demolab.com/badge/SQL_Server-0078D4?logo=database&logoColor=white&style=for-the-badge" />
+      <img src="https://custom-icon-badges.demolab.com/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" />
     </td>
   </tr>
   <tr>
