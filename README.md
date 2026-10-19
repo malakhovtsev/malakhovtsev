@@ -1,7 +1,7 @@
 <h2>👨‍💻 &nbsp;Full-Stack Engineer &nbsp;•&nbsp; CS Grad, Dec 2026&nbsp; <img alt="Ukraine flag" width="25" src="https://github.com/user-attachments/assets/18a66c76-ce0d-45cf-8eed-c62fc685343e"/> -> <img alt="US flag" width="25" src="https://github.com/user-attachments/assets/56c85ba2-97bb-419d-b086-67784bd9e554" /></h2>
 
 <p>
-  <code><a href="https://malakhovtsev.com"><img alt="" height="14" align="absmiddle" src="m-circle.svg" /></a> <a href="https://malakhovtsev.com">Portfolio ↗</a></code>
+  <code><a href="https://malakhovtsev.com"><img alt="" height="16" align="absmiddle" src="m-circle.svg" /></a> <a href="https://malakhovtsev.com">Portfolio ↗</a></code>
   <code>📄 <a href="https://malakhovtsev.com/resume">Resume ↗</a></code>
   <code><a href="mailto:andrii@malakhovtsev.com"><img alt="" height="14" align="absmiddle" src="https://skillicons.dev/icons?i=gmail" /></a> <a href="mailto:andrii@malakhovtsev.com">Email ↗</a></code>
   <code><a href="https://www.linkedin.com/in/malakhovtsev/"><img alt="" height="14" align="absmiddle" src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://www.linkedin.com/in/malakhovtsev/">LinkedIn ↗</a></code>
