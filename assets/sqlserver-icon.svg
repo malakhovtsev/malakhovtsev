@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-44 0 300 256">
+  <!-- Matches skillicons.dev tiles: 256×256, #242938, rx 60. The -44 on the left is the
+       gap skillicons leaves between icons, so this sits flush after a skillicons row. -->
+  <defs>
+    <linearGradient id="body" x1="0" x2="1">
+      <stop offset="0" stop-color="#2F86E0"/>
+      <stop offset="1" stop-color="#0A4FAE"/>
+    </linearGradient>
+    <linearGradient id="well" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.45" stop-color="#50E6FF"/>
+      <stop offset="0.55" stop-color="#1A8FD0"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="#242938" rx="60"/>
+  <!-- Database cylinder -->
+  <path fill="url(#body)" d="M44 62v130c0 12 32 22 72 22s72-10 72-22V62Z"/>
+  <ellipse cx="116" cy="62" rx="72" ry="22" fill="#E6E6E6"/>
+  <ellipse cx="116" cy="64" rx="58" ry="15" fill="url(#well)"/>
+  <text x="114" y="140" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" text-anchor="middle">SQL</text>
+  <text x="108" y="176" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" text-anchor="middle">Server</text>
+  <!-- Gear, outlined in the tile colour so it separates from the cylinder -->
+  <path fill="#8C8C8C" stroke="#242938" stroke-width="6" stroke-linejoin="round" d="M222.8 190.3L231.4 191.6L231.4 204.4L222.8 205.7L221.0 210.1L226.1 217.1L217.1 226.1L210.1 221.0L205.7 222.8L204.4 231.4L191.6 231.4L190.3 222.8L185.9 221.0L178.9 226.1L169.9 217.1L175.0 210.1L173.2 205.7L164.6 204.4L164.6 191.6L173.2 190.3L175.0 185.9L169.9 178.9L178.9 169.9L185.9 175.0L190.3 173.2L191.6 164.6L204.4 164.6L205.7 173.2L210.1 175.0L217.1 169.9L226.1 178.9L221.0 185.9Z"/>
+  <circle cx="198" cy="198" r="10" fill="#242938"/>
+</svg>
